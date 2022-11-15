@@ -16,7 +16,7 @@
 </div>
   
   ##
-<a href="https://tryhackme.com/p/kdufs"><img src="https://tryhackme-badges.s3.amazonaws.com/kdufs.png" target="_blank"></a><br>
+<a href="https://tryhackme.com/p/kdufs"><img src="https://tryhackme-badges.s3.amazonaws.com/kdufs.png" target="_blank"></a>
   ##
   <div>
   <a href="mailto:contatokdufs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
