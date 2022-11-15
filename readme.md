@@ -14,7 +14,6 @@
   <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=Kdufs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdufs&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
   ##
 <a href="https://tryhackme.com/p/kdufs"><img src="https://tryhackme-badges.s3.amazonaws.com/kdufs.png" target="_blank"></a>
   ##
