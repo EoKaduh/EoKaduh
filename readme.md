@@ -19,6 +19,7 @@
   ##
   
   <div>
+  <a href="https://tryhackme.com/p/kdufs"><img src="https://tryhackme-badges.s3.amazonaws.com/kdufs.png" target="_blank"></a>
   <a href="mailto:contatokdufs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kdufs.ctf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-lima-a21a93239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
