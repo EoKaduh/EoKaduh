@@ -8,9 +8,10 @@
 - 📩 Contate-me no email: contatokdufs@gmail.com
 - 👥 Pronoumes: Ele/Dele
 - 💼 Desempregado
--
+
 <div align="center">
    <a<script src="https://tryhackme.com/badge/1346853"></script>>
+     <a href="mailto:contatokdufs@gmail.com"><img src="https://tryhackme.com/badge/1346853" target="_blank"></a>
 </div>
    
  <div align="center">
