@@ -1,7 +1,6 @@
 ### Oii, Sejam Bem-vindos(a) ao meu Perfil
 
 <img align="right" alt="Kdu-Avatar" height="100" width="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/935729733319131216/1000284326375718952/WhatsApp_Image_2022-07-22_at_23.54.53.jpeg?width=228&height=227"><br>
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/kdufs.png" alt="TryHackMe">
 
 - 📚 Estudando Linux,Bash, Python e CyberSecurity focado na área ofensiva (Pentester)
 - 💻 Atualmente Cursando a 2ª Série do Ensino Médio (Integral)
