@@ -2,11 +2,11 @@
 
 <br>
 <div>
-  <p>
-    - 📚 Estudando C# e CyberSecurity focado na área ofensiva (Pentester)<br>
-    - 🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)<br>
-    - 📩 Contate-me no email: eduardolima.ctt@gmail.com<br>
-  </p>
+  <ul>
+  	<li>📚 Estudando C# e CyberSecurity focado na área ofensiva (Pentester)</li>
+  	<li>🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)</li>
+  	<li>📩 Contate-me no email: eduardolima.ctt@gmail.com</li>
+  </ul>
 </div>
 <br>
 
