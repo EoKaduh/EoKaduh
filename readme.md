@@ -1,9 +1,13 @@
 ### Oii, sejam bem-vindos(a) ao meu perfil
 
 <br>
-- 📚 Estudando C# e CyberSecurity focado na área ofensiva (Pentester)
-- 🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)
-- 📩 Contate-me no email: eduardolima.ctt@gmail.com
+<div>
+  <p>
+    - 📚 Estudando C# e CyberSecurity focado na área ofensiva (Pentester)<br>
+    - 🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)<br>
+    - 📩 Contate-me no email: eduardolima.ctt@gmail.com<br>
+  </p>
+</div>
 <br>
 
 <div align="center">
