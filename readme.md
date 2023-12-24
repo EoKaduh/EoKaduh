@@ -1,6 +1,6 @@
 ### Oii, sejam bem-vindos(a) ao meu perfil
 
-<img align="right" alt="Kdu-Avatar" height="100" width="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/935729733319131216/1000284326375718952/WhatsApp_Image_2022-07-22_at_23.54.53.jpeg?width=228&height=227"><br>
+<br>
 - 📚 Estudando C# e CyberSecurity focado na área ofensiva (Pentester)
 - 🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)
 - 📩 Contate-me no email: eduardolima.ctt@gmail.com
