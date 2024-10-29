@@ -4,7 +4,7 @@
 <div>
   <ul>
   	<li>📚 Estudando Java e Front-End</li>
-  	<li>🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)</li>
+  	<li>💼 Futuro Empresário</li>
   	<li>📩 Contate-me no email: eduardolima.ctt@gmail.com</li>
   </ul>
 </div>
