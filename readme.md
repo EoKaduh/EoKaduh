@@ -3,7 +3,7 @@
 <br>
 <div>
   <ul>
-  	<li>📚 Estudando C# e CyberSecurity focado na área ofensiva (Pentester)</li>
+  	<li>📚 Estudando Java e Front-End</li>
   	<li>🕵🏼‍♂️ Futuro PenTester (Rumo ao Meu primerio Bounty)</li>
   	<li>📩 Contate-me no email: eduardolima.ctt@gmail.com</li>
   </ul>
